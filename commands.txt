@@ -1,0 +1,6 @@
+conda create --name bitsIDP
+conda activate bitsIDP
+
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+conda install pandas numpy matplotlib seaborn scikit-learn jupyter

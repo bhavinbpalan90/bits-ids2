@@ -5,4 +5,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 conda install pandas numpy matplotlib seaborn scikit-learn jupyter
 
-Test Deepan
+pip install graphviz pydotplus
+
+conda install graphviz pydotplus
+
+brew install graphviz
